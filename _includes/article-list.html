@@ -55,7 +55,7 @@
           </div>
         {%- endif -%}
         <div class="item__content">
-          <header><a href="{{ _article_url }}"><h2 itemprop="headline" class="item__header">{{ _article.title }}</h2></a></header>
+          <header><a href="{{ _article_url }}"><h2 itemprop="headline" class="item__header" style="font-family: 'Cormorant Garamond', serif;">{{ _article.title }}</h2></a></header>
           <div class="item__description">
             {%- if _article.excerpt and include.show_excerpt -%}
               <div class="article__content" itemprop="description articleBody">
@@ -116,7 +116,7 @@
                 <img class="image" src="{{ _article_cover }}" />
                 <div class="overlay overlay--bottom">
                   <header>
-                    <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>
+                    <a href="{{ _article_url }}"><h2 class="card__header" style="font-family: 'Cormorant Garamond', serif;">{{ _article.title }}</h2></a>
                   </header>
                 </div>
               </div>
@@ -132,7 +132,7 @@
             {%- endif -%}
               <div class="card__content">
                 <header>
-                  <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>
+                  <a href="{{ _article_url }}"><h2 class="card__header" style="font-family: 'Cormorant Garamond', serif;">{{ _article.title }}</h2></a>
                 </header>
               </div>
           </div>

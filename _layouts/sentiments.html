@@ -1,0 +1,40 @@
+---
+layout: articles
+titles:
+  # @start locale config
+  en      : &EN       Other
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  Other
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  zh-Hant : &ZH_HANT  Other
+  zh-TW   : *ZH_HANT
+  zh-HK   : *ZH_HANT
+  ko      : &KO       Other
+  ko-KR   : *KO
+  fr      : &FR       Other
+  fr-BE   : *FR
+  fr-CA   : *FR
+  fr-CH   : *FR
+  fr-FR   : *FR
+  fr-LU   : *FR
+  tr      : &TR       Other
+  # @end locale config
+show_title: false
+articles:
+  data_source: site.sentiments
+  show_excerpt: true
+  show_readmore: true
+---
+<div class="layout--home">
+  {%- include paginator.html -%}
+</div>
+<script>
+  {%- include scripts/home.js -%}
+</script>
+
+{{ content }}

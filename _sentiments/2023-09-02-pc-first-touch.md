@@ -1,5 +1,5 @@
 ---
-title: First experience on personal computer a couple of decade ago
+title: My first experience on a personal computer was a couple of decades ago
 permalink: /sentiments/pc-first-touch
 layout: article
 cover: /assets/images/axure/page-single.jpg

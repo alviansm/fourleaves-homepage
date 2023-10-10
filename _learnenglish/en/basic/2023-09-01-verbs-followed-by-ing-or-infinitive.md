@@ -1,5 +1,5 @@
 ---
-title: Adjective and Preposition
+title: Verbs Followed by '-ing' or infinitive
 permalink: /learnenglish/en/basic/verbs-followed-by-ing-or-infinitive
 key: learnenglish-en-basic-verbs-followed-by-ing-or-infinitive
 layout: article

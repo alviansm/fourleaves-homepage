@@ -131,7 +131,7 @@ Data conducted from experiment are automatically collected in local database and
 
 > A future experiment should be conducted representing normal operating condition that is the minimum temperature reach over -20 celcius.
 
-### No-hybrid refrigeration and no-load vs. Hybrid refrigeration and no-load
+### No-Load Condition
 
 The data is collected until the refrigerated container reaches a balanced condition, so the length of time will be different for different variations of the experiment. Furthermore, according to ISO 1496-2, the intervals of data capture performed should not exceed 15 minutes. For data visualization purposes, the interval for the x-axis of each data is 15 minutes or 900 seconds.
 
@@ -163,7 +163,7 @@ Here is a ratio of energy consumption per hour for variations of experimental lo
 
 So the total power consumption in 84600 seconds based on the calculation above is 577.69 watts. If the result is compared directly for the variation of the experiment without load, the difference is 91.97 watt. If you calculate the average value of the energy consumptions in the overall time, the conventional experiment without weight variation consumes 16071.84 watts or 16,07 kW in 24 hours. In percentage, the energy savings were 13.73%.
 
-### No-hybrid refrigeration with load vs. Hybrid refrigeration with load
+### Load Condition
 
 The following is a graph for the temperature decrease on the conventional experimental variation with the load according to the calculations that have been made on the sub-bab preparation of the apparatus.
 

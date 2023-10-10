@@ -123,6 +123,8 @@ There are four variation experiments conducted for this research with different 
 
 Data conducted from experiment are automatically collected in local database and then storen in a cloud when there's internet connection. The following are the results for load and no-load conditions.
 
+![Potrait of phase-change material encapsulation inside reefer container](/assets/images/posts/iot-based-ems-pcm/pcm-inside.jpg)
+
 > When the experiment is conducted, there's also another experiment that conducted synchronously with this project, that is an experiment on tranfroming from single state vapor compression refrigeration cycle into cascade refrigeration system with multiple compressor.
 
 > Ideally, the refrigeration system is a fixed variable in out project so the cascade experiment won't affect directly to our experiment. However, when the research is conducted using cascade refrigeration system, minimum temperature does not reach -20. This will affect in a swing temperature that usually happen in fixed-compressor for vapor compression refrigeration state, thus the experiment become not really representing a normal operating condition. However, that should still acceptable because we want to know the energy saved with utilization of PCM.

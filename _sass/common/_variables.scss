@@ -1,13 +1,13 @@
 $base: (
-  font-family:            ("McKinsey Sans","Helvetica Neue",Calibri,Corbel,Helvetica,Roboto,Droid,sans-serif),
+  font-family:            ('DM Sans', sans-serif),
   font-family-code:       (Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace),
 
   font-size-root:         16px,
   font-size-root-sm:      14px,
 
-  font-size-xl:           1.5rem,
+  font-size-xl:           1.45rem,
   font-size-lg:           1.25rem,
-  font-size:              1.25rem,
+  font-size:              1.1rem,
   font-size-sm:           .85rem,
   font-size-xs:           .7rem,
 
@@ -46,8 +46,8 @@ $base: (
   font-size-h5-xs:        .85rem,
   font-size-h6-xs:        .85rem,
 
-  font-weight:            400,
-  font-weight-bold:       700,
+  font-weight:            300,
+  font-weight-bold:       600,
 
   line-height-xl:         2,
   line-height-lg:         1.8,
@@ -55,7 +55,7 @@ $base: (
   line-height-sm:         1.4,
   line-height-xs:         1.2,
 
-  spacer:                 1rem,
+  spacer:                 .85rem,
 
   border-radius-lg:       .8rem,
   border-radius:          .4rem,

@@ -10,6 +10,7 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87, .4), rgba(139, 34, 139, .4))'
     src: /assets/images/posts/2009-videogames-collection/cover.jpg
+  archived: true
 ---
 Note that this post won't be technical because it was quiet long ago since I'm using Game Maker. This was problably one of my interesting memory in my past.
 
